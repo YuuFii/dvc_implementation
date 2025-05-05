@@ -2,3 +2,8 @@
     remote = storage
 ['remote "storage"']
     url = gdrive://1oY7pyiB2ECV5TyvMwLqd7Qh6VHjVf1ym
+    gdrive_client_id = 1020199260538-dkv14t4g6pqvsffm69s82gu71j2gsoc0.apps.googleusercontent.com
+    gdrive_client_secret = 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
+    gdrive_acknowledge_abuse = true
+    gdrive_use_service_account = true
+    gdrive_service_account_json_file_path = C:/Users/VICTUS/Documents/DVC/dvc.json
