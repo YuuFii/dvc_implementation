@@ -1,5 +1,5 @@
 outs:
-- md5: e72e30963bfd051bfb809975bb2e3528
-  size: 2000677
+- md5: b25c6b8c2efe7d06db52352f76ea1b86
+  size: 4001354
   hash: md5
   path: scraped_emerald_2019_2024.json
